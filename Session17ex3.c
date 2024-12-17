@@ -52,7 +52,7 @@ int main() {
             printf("Tam biet!!\n");
             break;
         default:
-            printf("Khong hop le!! Nhap lai!!\n");
+            printf("Nhap khong hop le!");
             break;
         }
     } while (choice != 7);
